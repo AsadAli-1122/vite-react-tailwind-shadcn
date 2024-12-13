@@ -1,5 +1,4 @@
-## Setting Up a Modern React Project with Vite, TailwindCSS, ShadCN, and Vite
-
+## Setting Up a Modern React Project with Vite, TailwindCSS, ShadCN
 
 ### Prerequisites
 
